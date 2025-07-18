@@ -151,7 +151,7 @@ Go to `/index.html` and fill your information, there are 6 sections:
       <div class="header__logo-img-cont">
         <img
           src="./assets/png/john-doe.png"
-          alt="Ram Maheshwari Logo Image"
+          alt="Manoj Jami Logo Image"
           class="header__logo-img"
         />
       </div>
@@ -586,7 +586,7 @@ If you like to know how to submit forms so you can receive the form details in y
     <div class="main-footer__lower">
       &copy; Copyright 2021. Made by
       <a rel="noreferrer" target="_blank" href="https://rammaheshwari.com"
-        >Ram Maheshwari</a
+        >Manoj Jami</a
       >
     </div>
   </div>
@@ -762,7 +762,7 @@ If you like this project then give it a **Github** star by pressing the **Star**
 
 ## Author 👨‍💻
 
-- **Ram Maheshwari** - **[Linkedin](https://linkedin.com/in/rammcodes)**, **[Instagram](https://instagram.com/rammcodes_)**, **[Twitter](https://twitter.com/rammcodes)**, **[Github](https://github.com/rammcodes)**, **[Portfolio](https://rammaheshwari.com)**  
+- **Manoj Jami** - **[Linkedin](https://linkedin.com/in/rammcodes)**, **[Instagram](https://instagram.com/rammcodes_)**, **[Twitter](https://twitter.com/rammcodes)**, **[Github](https://github.com/rammcodes)**, **[Portfolio](https://rammaheshwari.com)**  
 
 <br>
 
